@@ -15,3 +15,6 @@
 
 - `./script.py the quick brown fox jumps over the lazy dog`
 - `echo "the quick brown fox jumps over the lazy dog" | ./script.py`
+
+## Автор
+Палатов И.А.
